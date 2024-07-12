@@ -1,0 +1,2 @@
+key = { fg = "#ffffff", bg = "#0F0F0F", underline = { color = "#ff0000", style = "curl"}, modifiers = ["bold", "italic"] }
+
